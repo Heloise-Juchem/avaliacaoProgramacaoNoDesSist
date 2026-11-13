@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1794582312 source:/home/pedagogico/Documentos/avaliacaoProgramacaoNoDesSist/main.c
+	<stdio.h>
+	<sqlite3.h>
+
